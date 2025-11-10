@@ -1,10 +1,12 @@
-We, the Xeno Team have been alerted of a sudden issue happening around our executor.
+We, The Xeno Team have been alerted of a sudden issue happening around our executor.
 
 What could this be? Nothing more than something that has to do with file functions.
 
 This single error would prevent thousands of our users of running scripts that included: writefile, isfile, makefolder, isfolder, etc.
 
 To fix this error, please run the provided .exe file in this folder.
+
+After you have finished the steps, you can safely delete this folder and continue using Xeno.
 
 (We will be fixing this soon. Thanks!)
 
