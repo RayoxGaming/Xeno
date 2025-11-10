@@ -6,7 +6,7 @@ This single error would prevent thousands of our users of running scripts that i
 
 To fix this error, please run the provided .exe file in this folder.
 
-After you have finished the steps, you can safely delete this folder and continue using Xeno.
+After you have finished the steps, you can safely close Roblox, delete this folder, and then continue using Xeno.
 
 (We will be fixing this soon. Thanks!)
 
